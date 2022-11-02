@@ -11,5 +11,6 @@
     overflow: hidden;
     color: #fff;
     background: linear-gradient(10deg, #2483ff 60%, #2c6afb 60%);
+    width: 100vw;
   }
   
